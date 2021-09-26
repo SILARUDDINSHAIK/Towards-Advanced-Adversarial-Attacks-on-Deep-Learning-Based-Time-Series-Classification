@@ -1,0 +1,9 @@
+{
+    "attack_name":"L2AdditiveGaussianNoiseAttack",
+    "epsilon":3,
+    "constraint": "2",
+    "attack_args": {
+
+    }
+}
+
