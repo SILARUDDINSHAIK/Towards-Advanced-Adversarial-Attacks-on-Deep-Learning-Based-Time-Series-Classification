@@ -1,0 +1,9 @@
+{
+    "attack_name":"GaussianBlurAttack",
+    "epsilon":1.0,
+    "constraint": "2",
+    "attack_args": {
+        "steps": 20
+    }
+}
+
